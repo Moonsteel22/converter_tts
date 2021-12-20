@@ -47,8 +47,12 @@ Here some query params:
 --- language: ru, en
 
 Example:
+
+
 ![image](https://user-images.githubusercontent.com/60964414/146820148-6f0e0f52-62a8-4f2b-9afc-f2b8ed229ab2.png)
 Result:
+
+
 ![image](https://user-images.githubusercontent.com/60964414/146820232-811ed4cd-d5ec-4d96-89fd-38522e8d9657.png)
 
   
