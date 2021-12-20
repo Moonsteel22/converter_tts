@@ -47,7 +47,7 @@ Here some query params:
 --- language: ru, en
 
 Example:
-
+Russian text translated into Russian and voiced
 
 ![image](https://user-images.githubusercontent.com/60964414/146820148-6f0e0f52-62a8-4f2b-9afc-f2b8ed229ab2.png)
 Result:
