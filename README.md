@@ -26,24 +26,23 @@ pdm run uvicorn main:app --port 8000 --reload
 ```
 
 Application accept txt files with following format:
-
+```
 Chapter 1
 TextTextText
 
 Chapter 2
 TextText
-
+```
 Or on Russian
-
+```
 Глава 1
 ТекстТекстТекст
 ТекстТекст
 
 Глава 2
 Еще какой-нибудь текст
-
+```
 Then send post request to endpoint /converter, with attached txt file
 Here some request params:
-  Text will be translated and voiced to specified language. By default language="ru"
-  ?language=en
-  values: en, ru
+Text will be translated and voiced to specified language. By default language="ru"
+  
