@@ -20,10 +20,6 @@ Run app
 pdm run uvicorn app.main:app --port 8000 --reload
 ```
 
-Or move to app and execute
-```
-pdm run uvicorn main:app --port 8000 --reload
-```
 
 Application accept txt files with following format:
 ```
