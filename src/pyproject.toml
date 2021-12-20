@@ -9,6 +9,12 @@ dependencies = [
     "fastapi~=0.70",
     "uvicorn~=0.15",
     "mypy~=0.910",
+    "google-cloud-texttospeech~=2.7",
+    "aiofiles~=0.8",
+    "pydantic~=1.8",
+    "python-multipart~=0.0",
+    "google-cloud-translate~=3.6",
+    "uvloop~=0.16",
 ]
 requires-python = ">=3.9"
 dynamic = ["classifiers"]
