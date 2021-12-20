@@ -1,7 +1,6 @@
 # converter_tts
 
-Clone this repo \n
-Move to src
+Clone this repo, move into src
 Install pdm with pip 
 ```
 pip install pdm
