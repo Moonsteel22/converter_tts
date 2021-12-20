@@ -43,6 +43,6 @@ Or on Russian
 Еще какой-нибудь текст
 ```
 Then send post request to endpoint __/convert__, with attached txt file
-Here some request params:
+Here some query params:
 --- language: ru, en
   
