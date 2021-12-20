@@ -55,8 +55,10 @@ Text:
 
 Request:
 
-![image](https://user-images.githubusercontent.com/60964414/146820148-6f0e0f52-62a8-4f2b-9afc-f2b8ed229ab2.png)
+![image](https://user-images.githubusercontent.com/60964414/146820789-a9387ab5-047b-4d0b-b482-7e07fed8edee.png)
 Result:
+
+You will get tar file with splitted by chapters audio files
 
 
 ![image](https://user-images.githubusercontent.com/60964414/146820615-062eabe4-9f9d-4e95-8bb2-90ae47d3cfc2.png)
