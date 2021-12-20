@@ -42,7 +42,7 @@ Or on Russian
 Глава 2
 Еще какой-нибудь текст
 ```
-Then send post request to endpoint /converter, with attached txt file
+Then send post request to endpoint __/convert__, with attached txt file
 Here some request params:
-Text will be translated and voiced to specified language. By default language="ru"
+--- language: ru, en
   
